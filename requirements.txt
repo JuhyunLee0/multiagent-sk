@@ -1,0 +1,8 @@
+semantic-kernel
+asyncio
+python-dotenv
+matplotlib
+seaborn
+pandas
+python-docx
+pathlib2

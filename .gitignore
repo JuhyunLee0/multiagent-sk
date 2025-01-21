@@ -1,0 +1,5 @@
+.env
+backup/
+.venv/
+output.txt
+local/
