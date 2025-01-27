@@ -1,7 +1,7 @@
 INSURANCE CLAIM REPORT
 ----------------------
 Claim ID: HURTX-2024-0456
-Date Filed: January 21, 2025
+Date Filed: January 27, 2025
 Claimant: Contoso Electronics Inc.
 Store Location: Contoso Electronics #TX-230
 Address: 1125 Main Street, Houston, TX 77002
@@ -41,4 +41,4 @@ FILED BY
 Adjuster: Lauren Chen
 Fabrikam Insurance Adjuster ID: TX-ADJ-3112
 Agency: Gulf Coast Claims Solutions
-Initial On-Site Visit: January 22, 2025
+Initial On-Site Visit: January 28, 2025

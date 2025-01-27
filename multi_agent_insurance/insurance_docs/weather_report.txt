@@ -1,6 +1,6 @@
 NOAA SEVERE WEATHER REPORT
 --------------------------
-Report Date: January 21, 2025
+Report Date: January 27, 2025
 Event: Hurricane Alicia (2024 Season)
 
 STORM DETAILS

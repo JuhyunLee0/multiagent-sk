@@ -3,3 +3,8 @@ backup/
 .venv/
 output.txt
 local/
+
+plugins/__pycache__/
+
+multi_agent_insurance/bak/
+single_agent_with_aisearch
